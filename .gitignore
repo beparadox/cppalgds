@@ -1,0 +1,8 @@
+*.vim
+*.o
+./src/obj
+prac
+*.swp
+main 
+hash
+ctci
