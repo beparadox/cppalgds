@@ -1,0 +1,1 @@
+A collection of data structures and algorithms implemented in C++. Following the free text book "Data Structures and Algorithm Analysis Edition 3.2 (C++ Version)" by Clifford A. Shaffer of Virginia Tech.
